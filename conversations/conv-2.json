@@ -1,0 +1,51 @@
+[
+    {
+      "speaker": "Doctor",
+      "message": "Hello. What brings you in today?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Hi, doctor. I've been having some stomach discomfort and occasional nausea."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "I’m sorry to hear that. Can you tell me when these symptoms started?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "It started about three days ago. Especially after meals, I feel bloated and sometimes nauseous."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Have you noticed any changes in your bowel movements or appetite?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Yes, my appetite has decreased a bit and sometimes I feel constipated."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Any other symptoms like fever or vomiting?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "No fever yet, just some mild vomiting once or twice."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Are you under any particular stress or have you changed your diet recently?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "I have been really busy at work, and I think I’ve been eating more fast food than usual."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Thanks for sharing that. It’s important we keep track of these symptoms. Please let me know if anything else develops."
+    },
+    {
+      "speaker": "Patient",
+      "message": "Will do, doctor. Thank you."
+    }
+  ]
+

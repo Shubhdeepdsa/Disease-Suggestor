@@ -1,0 +1,25 @@
+=== Conversation Text Sent to LLM ===
+
+DOCTOR: Good morning. How are you feeling today?
+PATIENT: Good morning, doctor. I've been feeling a bit off lately, just not myself.
+DOCTOR: I see. Can you tell me more about what you’ve been experiencing?
+PATIENT: Well, I feel tired all the time, even after sleeping well. And sometimes I get headaches, but they’re not too bad.
+DOCTOR: How long have you been feeling this way?
+PATIENT: It's been going on for about a week now.
+DOCTOR: Any other symptoms, like trouble sleeping or changes in appetite?
+PATIENT: Actually, yes. I've had trouble falling asleep and I’m not very hungry most days.
+DOCTOR: Okay, and have you noticed anything that makes you feel better or worse?
+PATIENT: Not really. Rest helps a little, but the tiredness comes back quickly.
+DOCTOR: Have you been under a lot of stress recently?
+PATIENT: Yes, work has been pretty hectic and I’ve been worried about some deadlines.
+DOCTOR: That can definitely affect how you feel. How about your mood? Any feelings of sadness or anxiety?
+PATIENT: Sometimes I feel anxious, and a bit down, but nothing too overwhelming.
+DOCTOR: Thank you for sharing that. It’s good to talk about it. Is there anything else you’d like to add?
+PATIENT: No, that’s about it. Just hoping to feel better soon.
+DOCTOR: I understand. Let’s keep talking about how you’re feeling over the next few days. If anything changes or gets worse, be sure to let me know.
+
+=== LLM Raw Response ===
+
+{
+  "symptoms_present": ["fatigue", "headache", "depression", "insomnia", "decreased appetite"]
+}

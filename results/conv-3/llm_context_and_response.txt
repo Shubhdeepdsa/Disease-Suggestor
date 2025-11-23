@@ -1,0 +1,25 @@
+=== Conversation Text Sent to LLM ===
+
+DOCTOR: Hello! What are the main issues you’re experiencing?
+PATIENT: Hi doctor, I’ve been having a lot of joint pain and some stiffness, especially in the mornings.
+DOCTOR: Do you feel the stiffness lasts more than an hour after waking up?
+PATIENT: Yes, usually about an hour or so.
+DOCTOR: Do you notice any swelling or redness in your joints?
+PATIENT: Yes, my fingers sometimes look swollen and red.
+DOCTOR: Have you experienced any fevers or unexplained weight loss lately?
+PATIENT: No fevers, but I have lost a little weight without trying.
+DOCTOR: Do you have difficulty with daily activities, like opening jars or gripping objects?
+PATIENT: Yes, gripping things has become harder.
+DOCTOR: Thank you for sharing these details. We’ll monitor these symptoms closely. Have you noticed if the pain is worse during certain times of the day?
+PATIENT: Yes, it feels worse in the morning and improves a bit as the day goes on.
+DOCTOR: Do you feel fatigued or unusually tired during the day?
+PATIENT: Yes, I do feel quite tired most days.
+DOCTOR: Has anyone in your family had similar symptoms or arthritis?
+PATIENT: Yes, my mother had arthritis.
+DOCTOR: Good to know. Please keep track of how these symptoms progress and contact me if anything changes or worsens.
+
+=== LLM Raw Response ===
+
+{
+  "symptoms_present": ["joint pain", "joint stiffness or tightness", "swelling in joints", "fatigue"]
+}

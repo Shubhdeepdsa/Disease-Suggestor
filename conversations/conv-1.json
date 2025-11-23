@@ -1,0 +1,70 @@
+[
+  {
+    "speaker": "Doctor",
+    "message": "Good morning. How are you feeling today?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "Good morning, doctor. I've been feeling a bit off lately, just not myself."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "I see. Can you tell me more about what you’ve been experiencing?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "Well, I feel tired all the time, even after sleeping well. And sometimes I get headaches, but they’re not too bad."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "How long have you been feeling this way?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "It's been going on for about a week now."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "Any other symptoms, like trouble sleeping or changes in appetite?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "Actually, yes. I've had trouble falling asleep and I’m not very hungry most days."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "Okay, and have you noticed anything that makes you feel better or worse?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "Not really. Rest helps a little, but the tiredness comes back quickly."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "Have you been under a lot of stress recently?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "Yes, work has been pretty hectic and I’ve been worried about some deadlines."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "That can definitely affect how you feel. How about your mood? Any feelings of sadness or anxiety?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "Sometimes I feel anxious, and a bit down, but nothing too overwhelming."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "Thank you for sharing that. It’s good to talk about it. Is there anything else you’d like to add?"
+  },
+  {
+    "speaker": "Patient",
+    "message": "No, that’s about it. Just hoping to feel better soon."
+  },
+  {
+    "speaker": "Doctor",
+    "message": "I understand. Let’s keep talking about how you’re feeling over the next few days. If anything changes or gets worse, be sure to let me know."
+  }
+]

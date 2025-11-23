@@ -1,0 +1,71 @@
+[
+    {
+      "speaker": "Doctor",
+      "message": "Hello! What are the main issues you’re experiencing?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Hi doctor, I’ve been having a lot of joint pain and some stiffness, especially in the mornings."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Do you feel the stiffness lasts more than an hour after waking up?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Yes, usually about an hour or so."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Do you notice any swelling or redness in your joints?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Yes, my fingers sometimes look swollen and red."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Have you experienced any fevers or unexplained weight loss lately?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "No fevers, but I have lost a little weight without trying."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Do you have difficulty with daily activities, like opening jars or gripping objects?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Yes, gripping things has become harder."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Thank you for sharing these details. We’ll monitor these symptoms closely. Have you noticed if the pain is worse during certain times of the day?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Yes, it feels worse in the morning and improves a bit as the day goes on."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Do you feel fatigued or unusually tired during the day?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Yes, I do feel quite tired most days."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Has anyone in your family had similar symptoms or arthritis?"
+    },
+    {
+      "speaker": "Patient",
+      "message": "Yes, my mother had arthritis."
+    },
+    {
+      "speaker": "Doctor",
+      "message": "Good to know. Please keep track of how these symptoms progress and contact me if anything changes or worsens."
+    }
+  ]
+

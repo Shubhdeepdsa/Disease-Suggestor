@@ -1,0 +1,20 @@
+=== Conversation Text Sent to LLM ===
+
+DOCTOR: Hello. What brings you in today?
+PATIENT: Hi, doctor. I've been having some stomach discomfort and occasional nausea.
+DOCTOR: I’m sorry to hear that. Can you tell me when these symptoms started?
+PATIENT: It started about three days ago. Especially after meals, I feel bloated and sometimes nauseous.
+DOCTOR: Have you noticed any changes in your bowel movements or appetite?
+PATIENT: Yes, my appetite has decreased a bit and sometimes I feel constipated.
+DOCTOR: Any other symptoms like fever or vomiting?
+PATIENT: No fever yet, just some mild vomiting once or twice.
+DOCTOR: Are you under any particular stress or have you changed your diet recently?
+PATIENT: I have been really busy at work, and I think I’ve been eating more fast food than usual.
+DOCTOR: Thanks for sharing that. It’s important we keep track of these symptoms. Please let me know if anything else develops.
+PATIENT: Will do, doctor. Thank you.
+
+=== LLM Raw Response ===
+
+{
+  "symptoms_present": ["constipation", "decreased appetite", "nausea", "stomach bloating"]
+}
